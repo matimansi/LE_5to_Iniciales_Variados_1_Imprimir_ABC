@@ -1,11 +1,4 @@
 
-/*
-	Quiero ver todas las letras del abecedario de a-z y su valor hexadecimal correspondiente.
-	(Si utilizo comillas simples puedo trabajar con el valor correspondiente dentro de la tabla ASCII)
-
-	>>> TERMINADO <<<
-*/
-
 #include <stdio.h>
 
 void imprimir_ABC(void);
